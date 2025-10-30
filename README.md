@@ -11,7 +11,7 @@ It showcases my work, skills, and contact information, and even includes a fun *
 |-----------|--------------|
 | Frontend | React 18, Material UI (MUI v5), JavaScript/TypeScript |
 | Styling | MUI System, Responsive Design, Dark Theme |
-| Hosting | Vercel (recommended) / Netlify / GitHub Pages |
+| Hosting | Vercel |
 | Tools | Formspree (for contact form) |
 
 ---
